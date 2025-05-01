@@ -1,0 +1,10 @@
+/* style.css */
+
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    color: steelblue; /* Change the color of the main heading */
+} 
