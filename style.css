@@ -7,4 +7,17 @@ body {
 
 h1 {
     color: steelblue; /* Change the color of the main heading */
+}
+
+/* Styles for the 3D container */
+#three-container {
+    width: 300px;       /* Example width */
+    height: 300px;      /* Example height */
+    border: 1px solid #ccc; /* Optional border to see the container */
+    margin-top: 20px;   /* Add some space above the container */
+    overflow: hidden;   /* Hide anything outside the container bounds */
+}
+
+#three-container canvas {
+    display: block;     /* Remove extra space below the canvas */
 } 

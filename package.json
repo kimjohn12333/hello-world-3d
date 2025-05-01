@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "@smithery/cli": "^1.1.83"
+  },
+  "dependencies": {
+    "three": "^0.176.0"
   }
 }
